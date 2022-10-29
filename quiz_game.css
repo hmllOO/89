@@ -1,0 +1,18 @@
+body{
+	background: rgb(34, 36, 39);
+}
+.login_div1, .login_div2{
+	font-family: Impact;
+	padding: 10px;
+	float: none;
+	border-radius: 15px;
+	background-color: rgb(31, 149, 59);
+}
+#btn1{
+    background-repeat: no-repeat;
+}
+h1{
+	font-family: fantasy;
+    color: rgb(31, 149, 59);
+
+}
